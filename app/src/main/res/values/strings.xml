@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Borong.in</string>
+    <string name="top_text">Selamat Datang</string>
+    <string name="top_text2">Mau belanja apa hari ini?</string>
+
+    <string name="n_barang">Nama Barang</string>
+    <string name="inp_harga">Rp.5000</string>
+    <string name="stok_barang">1</string>
+    <string name="n_stok_barang">Stok</string>
+    <string name="best_seller">Best Seller</string>
+    <string name="total_harga">Total</string>
+    <string name="add_cart">Keranjang</string>
+    <string name="bayar">Bayar Sekarang</string>
+    <string name="total_bayar">Total Pembayaran</string>
+    <string name="bayar_now">bayar</string>
+    <string name="batal_btn">Batal</string>
+    <string name="list_product">List Produk</string>
+    <string name="tv_finish">Yeay transaksi berhasil!</string>
+    <string name="btn_finish">Ke halaman beranda</string>
+    <string name="content_rv1">list of best seller</string>
+
+    <string name="home">Home</string>
+    <string name="riwayat">riwayat</string>
+    <string name="cart">cart</string>
+    <string name="profile">profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="data_number_item">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <integer-array name="data_foto">
+        <item>@drawable/iv_rv</item>
+        <item>@drawable/iv_rv</item>
+        <item>@drawable/iv_rv</item>
+        <item>@drawable/iv_rv</item>
+        <item>@drawable/iv_rv</item>
+    </integer-array>
+
+</resources>
